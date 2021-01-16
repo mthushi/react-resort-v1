@@ -1,6 +1,7 @@
 # Project Info
 
-This is a website created for a made-up beach resort company, for learning and practicing react.
+This is a website created for a made-up beach resort company, for learning and practicing react.\
+\
 The demo is available at " "
 
 # Getting Started with Create React App
